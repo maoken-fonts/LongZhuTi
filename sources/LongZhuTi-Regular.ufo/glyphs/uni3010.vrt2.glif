@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3010.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="950" y="422" type="line"/>
+      <point x="797" y="599"/>
+      <point x="501" y="599" type="qcurve" smooth="yes"/>
+      <point x="207" y="599"/>
+      <point x="50" y="422" type="qcurve"/>
+      <point x="50" y="710" type="line"/>
+      <point x="950" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

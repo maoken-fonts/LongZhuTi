@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="381" y="512" type="qcurve" smooth="yes"/>
+      <point x="344" y="512"/>
+      <point x="300" y="566"/>
+      <point x="300" y="600" type="qcurve" smooth="yes"/>
+      <point x="300" y="668"/>
+      <point x="363" y="778"/>
+      <point x="406" y="809" type="qcurve"/>
+      <point x="434" y="782" type="line"/>
+      <point x="391" y="740"/>
+      <point x="376" y="678" type="qcurve"/>
+      <point x="411" y="678"/>
+      <point x="462" y="639"/>
+      <point x="462" y="598" type="qcurve" smooth="yes"/>
+      <point x="462" y="562"/>
+      <point x="419" y="512"/>
+    </contour>
+    <contour>
+      <point x="188" y="512" type="qcurve" smooth="yes"/>
+      <point x="151" y="512"/>
+      <point x="107" y="566"/>
+      <point x="107" y="600" type="qcurve" smooth="yes"/>
+      <point x="107" y="668"/>
+      <point x="170" y="778"/>
+      <point x="213" y="809" type="qcurve"/>
+      <point x="241" y="782" type="line"/>
+      <point x="198" y="740"/>
+      <point x="183" y="678" type="qcurve"/>
+      <point x="218" y="678"/>
+      <point x="269" y="639"/>
+      <point x="269" y="598" type="qcurve" smooth="yes"/>
+      <point x="269" y="562"/>
+      <point x="226" y="512"/>
+    </contour>
+  </outline>
+</glyph>

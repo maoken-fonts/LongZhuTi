@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE3D" format="2">
+  <advance width="1000"/>
+  <unicode hex="FE3D"/>
+  <outline>
+    <contour>
+      <point x="921" y="61" type="line"/>
+      <point x="500" y="275" type="line"/>
+      <point x="80" y="61" type="line"/>
+      <point x="50" y="119" type="line"/>
+      <point x="500" y="377" type="line"/>
+      <point x="950" y="119" type="line"/>
+    </contour>
+    <contour>
+      <point x="906" y="-82" type="line"/>
+      <point x="500" y="116" type="line"/>
+      <point x="95" y="-82" type="line"/>
+      <point x="66" y="-24" type="line"/>
+      <point x="500" y="221" type="line"/>
+      <point x="935" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

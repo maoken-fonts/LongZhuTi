@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF64" format="2">
+  <advance width="500"/>
+  <unicode hex="FF64"/>
+  <outline>
+    <contour>
+      <point x="271" y="-86" type="line"/>
+      <point x="176" y="52"/>
+      <point x="81" y="141" type="qcurve"/>
+      <point x="150" y="205" type="line"/>
+      <point x="263" y="144"/>
+      <point x="384" y="19" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

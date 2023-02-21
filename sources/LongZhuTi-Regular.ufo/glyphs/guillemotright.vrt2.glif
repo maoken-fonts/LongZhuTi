@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="502" y="461" type="line"/>
+      <point x="371" y="461" type="line"/>
+      <point x="142" y="763" type="line"/>
+      <point x="238" y="763" type="line"/>
+      <point x="437" y="563" type="line"/>
+      <point x="639" y="763" type="line"/>
+      <point x="732" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="221" type="line"/>
+      <point x="371" y="221" type="line"/>
+      <point x="142" y="523" type="line"/>
+      <point x="238" y="523" type="line"/>
+      <point x="437" y="323" type="line"/>
+      <point x="639" y="523" type="line"/>
+      <point x="732" y="523" type="line"/>
+    </contour>
+  </outline>
+</glyph>

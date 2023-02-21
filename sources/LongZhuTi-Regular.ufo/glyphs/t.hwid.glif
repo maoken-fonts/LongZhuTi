@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="379" y="-11" type="line"/>
+      <point x="159" y="-11"/>
+      <point x="159" y="168" type="qcurve" smooth="yes"/>
+      <point x="159" y="462" type="line"/>
+      <point x="70" y="462" type="line"/>
+      <point x="50" y="539" type="line"/>
+      <point x="159" y="549" type="line"/>
+      <point x="159" y="729" type="line"/>
+      <point x="300" y="709" type="line"/>
+      <point x="295" y="563" type="line"/>
+      <point x="432" y="573" type="line"/>
+      <point x="432" y="462" type="line"/>
+      <point x="291" y="462" type="line"/>
+      <point x="281" y="186" type="line"/>
+      <point x="281" y="152"/>
+      <point x="299" y="99"/>
+      <point x="350" y="70"/>
+      <point x="399" y="70" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

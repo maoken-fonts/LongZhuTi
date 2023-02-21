@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="303" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="224" type="line"/>
+      <point x="20" y="224" type="line"/>
+      <point x="20" y="339" type="line"/>
+      <point x="194" y="339" type="line"/>
+      <point x="194" y="555" type="line"/>
+      <point x="303" y="555" type="line"/>
+      <point x="303" y="339" type="line"/>
+      <point x="481" y="339" type="line"/>
+      <point x="481" y="224" type="line"/>
+      <point x="303" y="224" type="line"/>
+    </contour>
+  </outline>
+</glyph>

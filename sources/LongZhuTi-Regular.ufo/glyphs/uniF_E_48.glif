@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE48" format="2">
+  <advance width="1000"/>
+  <unicode hex="FE48"/>
+  <outline>
+    <contour>
+      <point x="950" y="545" type="line"/>
+      <point x="50" y="545" type="line"/>
+      <point x="50" y="822" type="line"/>
+      <point x="126" y="822" type="line"/>
+      <point x="151" y="653" type="line"/>
+      <point x="849" y="653" type="line"/>
+      <point x="874" y="822" type="line"/>
+      <point x="950" y="822" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni30CE" format="2">
+  <advance width="1000"/>
+  <unicode hex="30CE"/>
+  <outline>
+    <contour>
+      <point x="182" y="-50" type="qcurve"/>
+      <point x="133" y="9" type="line"/>
+      <point x="354" y="143"/>
+      <point x="585" y="493"/>
+      <point x="637" y="772" type="qcurve"/>
+      <point x="792" y="734" type="line"/>
+      <point x="729" y="449"/>
+      <point x="457" y="71"/>
+    </contour>
+  </outline>
+</glyph>

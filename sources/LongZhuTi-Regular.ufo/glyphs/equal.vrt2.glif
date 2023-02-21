@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="617" y="220" type="line"/>
+      <point x="513" y="220" type="line"/>
+      <point x="513" y="770" type="line"/>
+      <point x="617" y="770" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="220" type="line"/>
+      <point x="271" y="220" type="line"/>
+      <point x="271" y="770" type="line"/>
+      <point x="376" y="770" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3043.vkna" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="401" y="70" type="qcurve" smooth="yes"/>
+      <point x="358" y="70"/>
+      <point x="312" y="212"/>
+      <point x="300" y="369" type="qcurve"/>
+      <point x="291" y="512"/>
+      <point x="291" y="627" type="qcurve"/>
+      <point x="292" y="658" type="line"/>
+      <point x="411" y="647" type="line"/>
+      <point x="399" y="524"/>
+      <point x="399" y="410" type="qcurve" smooth="yes"/>
+      <point x="399" y="322"/>
+      <point x="411" y="200"/>
+      <point x="433" y="200" type="qcurve" smooth="yes"/>
+      <point x="450" y="200"/>
+      <point x="482" y="214" type="qcurve" smooth="yes"/>
+      <point x="540" y="239"/>
+      <point x="590" y="269" type="qcurve"/>
+      <point x="620" y="215" type="line"/>
+      <point x="598" y="191"/>
+      <point x="517" y="124"/>
+      <point x="430" y="70"/>
+    </contour>
+    <contour>
+      <point x="822" y="227" type="line"/>
+      <point x="782" y="412"/>
+      <point x="708" y="570" type="qcurve"/>
+      <point x="768" y="592" type="line"/>
+      <point x="863" y="466"/>
+      <point x="944" y="290" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u1D704" format="2">
+  <advance width="264"/>
+  <unicode hex="1D704"/>
+  <outline>
+    <contour>
+      <point x="229" y="-10" type="line"/>
+      <point x="56" y="-10"/>
+      <point x="56" y="150" type="qcurve"/>
+      <point x="96" y="574" type="line"/>
+      <point x="240" y="560" type="line"/>
+      <point x="186" y="197" type="line"/>
+      <point x="184" y="171" type="line"/>
+      <point x="184" y="131"/>
+      <point x="225" y="75"/>
+      <point x="262" y="75" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

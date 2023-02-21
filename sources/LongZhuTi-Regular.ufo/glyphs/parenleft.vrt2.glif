@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="949" y="360" type="line"/>
+      <point x="877" y="435"/>
+      <point x="640" y="534"/>
+      <point x="500" y="534" type="qcurve" smooth="yes"/>
+      <point x="361" y="534"/>
+      <point x="123" y="435"/>
+      <point x="51" y="360" type="qcurve"/>
+      <point x="7" y="422" type="line"/>
+      <point x="94" y="530"/>
+      <point x="350" y="658"/>
+      <point x="500" y="658" type="qcurve" smooth="yes"/>
+      <point x="649" y="658"/>
+      <point x="906" y="530"/>
+      <point x="993" y="422" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

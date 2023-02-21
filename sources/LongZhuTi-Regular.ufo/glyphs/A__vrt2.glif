@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A_vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="161" y="341" type="line"/>
+      <point x="146" y="471" type="line"/>
+      <point x="307" y="500" type="line"/>
+      <point x="307" y="699" type="line"/>
+      <point x="146" y="747" type="line"/>
+      <point x="160" y="835" type="line"/>
+      <point x="960" y="650" type="line"/>
+      <point x="922" y="518" type="line"/>
+      <point x="868" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="521" type="line"/>
+      <point x="725" y="576" type="line"/>
+      <point x="403" y="671" type="line"/>
+    </contour>
+  </outline>
+</glyph>

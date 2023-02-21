@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF3E" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF3E"/>
+  <outline>
+    <contour>
+      <point x="650" y="599" type="line"/>
+      <point x="500" y="729" type="line"/>
+      <point x="350" y="599" type="line"/>
+      <point x="303" y="648" type="line"/>
+      <point x="442" y="835" type="line"/>
+      <point x="556" y="835" type="line"/>
+      <point x="698" y="648" type="line"/>
+    </contour>
+  </outline>
+</glyph>

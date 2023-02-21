@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="938" y="579" type="line"/>
+      <point x="544" y="595" type="line"/>
+      <point x="529" y="694" type="line"/>
+      <point x="844" y="694" type="line"/>
+      <point x="809" y="765" type="line"/>
+      <point x="856" y="789" type="line"/>
+      <point x="960" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="963" y="239" type="line"/>
+      <point x="137" y="666" type="line"/>
+      <point x="137" y="773" type="line"/>
+      <point x="963" y="345" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="124" type="line"/>
+      <point x="231" y="124" type="line"/>
+      <point x="231" y="195" type="line"/>
+      <point x="163" y="199" type="line"/>
+      <point x="148" y="284" type="line"/>
+      <point x="231" y="284" type="line"/>
+      <point x="231" y="473" type="line"/>
+      <point x="304" y="491" type="line"/>
+      <point x="444" y="404"/>
+      <point x="587" y="346" type="qcurve"/>
+      <point x="561" y="238" type="line"/>
+      <point x="524" y="256"/>
+      <point x="486" y="279" type="qcurve"/>
+      <point x="477" y="182" type="line"/>
+      <point x="316" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="284" type="line"/>
+      <point x="387" y="341"/>
+      <point x="304" y="405" type="qcurve"/>
+      <point x="311" y="284" type="line"/>
+    </contour>
+  </outline>
+</glyph>

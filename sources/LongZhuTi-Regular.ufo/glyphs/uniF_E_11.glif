@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE11" format="2">
+  <advance width="1000"/>
+  <unicode hex="FE11"/>
+  <outline>
+    <contour>
+      <point x="752" y="513" type="line"/>
+      <point x="656" y="654"/>
+      <point x="562" y="741" type="qcurve"/>
+      <point x="631" y="805" type="line"/>
+      <point x="744" y="744"/>
+      <point x="865" y="619" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

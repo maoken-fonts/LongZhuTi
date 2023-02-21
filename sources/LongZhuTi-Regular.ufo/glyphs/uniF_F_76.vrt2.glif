@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF76.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="802" y="350" type="line"/>
+      <point x="99" y="386" type="line"/>
+      <point x="167" y="619" type="line"/>
+      <point x="227" y="619" type="line"/>
+      <point x="250" y="477" type="line"/>
+      <point x="668" y="477" type="line"/>
+      <point x="668" y="559" type="line"/>
+      <point x="493" y="573"/>
+      <point x="215" y="669"/>
+      <point x="105" y="778" type="qcurve"/>
+      <point x="156" y="829" type="line"/>
+      <point x="262" y="748"/>
+      <point x="519" y="680"/>
+      <point x="668" y="673" type="qcurve"/>
+      <point x="668" y="800" type="line"/>
+      <point x="760" y="823" type="line"/>
+      <point x="774" y="668" type="line"/>
+      <point x="976" y="664" type="line"/>
+      <point x="953" y="545" type="line"/>
+      <point x="784" y="551" type="line"/>
+    </contour>
+  </outline>
+</glyph>

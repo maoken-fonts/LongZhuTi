@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="1075" y="357" type="qcurve" smooth="yes"/>
+      <point x="1026" y="357"/>
+      <point x="956" y="427"/>
+      <point x="956" y="476" type="qcurve" smooth="yes"/>
+      <point x="956" y="526"/>
+      <point x="1026" y="595"/>
+      <point x="1075" y="595" type="qcurve" smooth="yes"/>
+      <point x="1125" y="595"/>
+      <point x="1194" y="526"/>
+      <point x="1194" y="476" type="qcurve" smooth="yes"/>
+      <point x="1194" y="427"/>
+      <point x="1125" y="357"/>
+    </contour>
+    <contour>
+      <point x="161" y="112" type="line"/>
+      <point x="146" y="265" type="line"/>
+      <point x="307" y="318" type="line"/>
+      <point x="307" y="660" type="line"/>
+      <point x="146" y="730" type="line"/>
+      <point x="160" y="834" type="line"/>
+      <point x="960" y="546" type="line"/>
+      <point x="922" y="391" type="line"/>
+      <point x="875" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="357" type="line"/>
+      <point x="753" y="465" type="line"/>
+      <point x="397" y="621" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075" y="429" type="qcurve" smooth="yes"/>
+      <point x="1095" y="429"/>
+      <point x="1122" y="457"/>
+      <point x="1122" y="476" type="qcurve" smooth="yes"/>
+      <point x="1122" y="496"/>
+      <point x="1095" y="523"/>
+      <point x="1075" y="523" type="qcurve" smooth="yes"/>
+      <point x="1056" y="523"/>
+      <point x="1028" y="496"/>
+      <point x="1028" y="476" type="qcurve" smooth="yes"/>
+      <point x="1028" y="457"/>
+      <point x="1056" y="429"/>
+    </contour>
+  </outline>
+</glyph>

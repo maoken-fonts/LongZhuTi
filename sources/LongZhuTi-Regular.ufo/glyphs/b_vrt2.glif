@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b_vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="438" y="353" type="qcurve"/>
+      <point x="296" y="353"/>
+      <point x="148" y="459"/>
+      <point x="148" y="556" type="qcurve" smooth="yes"/>
+      <point x="148" y="657"/>
+      <point x="224" y="703" type="qcurve"/>
+      <point x="173" y="712" type="line"/>
+      <point x="149" y="800" type="line"/>
+      <point x="960" y="818" type="line"/>
+      <point x="940" y="690" type="line"/>
+      <point x="661" y="690" type="line"/>
+      <point x="689" y="674"/>
+      <point x="727" y="604"/>
+      <point x="727" y="557" type="qcurve" smooth="yes"/>
+      <point x="727" y="358"/>
+    </contour>
+    <contour>
+      <point x="438" y="469" type="qcurve" smooth="yes"/>
+      <point x="633" y="469"/>
+      <point x="633" y="588" type="qcurve" smooth="yes"/>
+      <point x="633" y="632"/>
+      <point x="561" y="693"/>
+      <point x="508" y="693" type="qcurve" smooth="yes"/>
+      <point x="315" y="693" type="line"/>
+      <point x="239" y="659"/>
+      <point x="239" y="587" type="qcurve" smooth="yes"/>
+      <point x="239" y="536"/>
+      <point x="330" y="469"/>
+    </contour>
+  </outline>
+</glyph>

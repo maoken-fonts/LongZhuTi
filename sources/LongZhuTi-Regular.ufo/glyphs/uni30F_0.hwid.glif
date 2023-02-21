@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni30F0.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="277" y="-75" type="line"/>
+      <point x="277" y="137" type="line"/>
+      <point x="20" y="137" type="line"/>
+      <point x="4" y="233" type="line"/>
+      <point x="102" y="241" type="line"/>
+      <point x="93" y="543" type="line"/>
+      <point x="42" y="543" type="line"/>
+      <point x="26" y="637" type="line"/>
+      <point x="277" y="660" type="line"/>
+      <point x="277" y="825" type="line"/>
+      <point x="400" y="804" type="line"/>
+      <point x="397" y="672" type="line"/>
+      <point x="474" y="679" type="line"/>
+      <point x="474" y="543" type="line"/>
+      <point x="394" y="543" type="line"/>
+      <point x="389" y="266" type="line"/>
+      <point x="485" y="274" type="line"/>
+      <point x="485" y="137" type="line"/>
+      <point x="387" y="137" type="line"/>
+      <point x="383" y="-54" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="250" type="line"/>
+      <point x="277" y="256" type="line"/>
+      <point x="277" y="543" type="line"/>
+      <point x="205" y="543" type="line"/>
+    </contour>
+  </outline>
+</glyph>

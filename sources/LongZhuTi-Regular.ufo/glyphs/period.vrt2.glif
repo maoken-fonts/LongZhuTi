@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="235" y="577" type="qcurve" smooth="yes"/>
+      <point x="198" y="577"/>
+      <point x="146" y="629"/>
+      <point x="146" y="666" type="qcurve" smooth="yes"/>
+      <point x="146" y="704"/>
+      <point x="198" y="755"/>
+      <point x="235" y="755" type="qcurve" smooth="yes"/>
+      <point x="273" y="755"/>
+      <point x="324" y="704"/>
+      <point x="324" y="666" type="qcurve" smooth="yes"/>
+      <point x="324" y="629"/>
+      <point x="273" y="577"/>
+    </contour>
+  </outline>
+</glyph>

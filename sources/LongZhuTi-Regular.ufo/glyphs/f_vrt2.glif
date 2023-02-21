@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="877" y="417" type="line"/>
+      <point x="877" y="485"/>
+      <point x="833" y="534"/>
+      <point x="771" y="534" type="qcurve" smooth="yes"/>
+      <point x="722" y="534" type="line"/>
+      <point x="733" y="429" type="line"/>
+      <point x="622" y="429" type="line"/>
+      <point x="622" y="534" type="line"/>
+      <point x="160" y="534" type="line"/>
+      <point x="146" y="652" type="line"/>
+      <point x="622" y="667" type="line"/>
+      <point x="622" y="741" type="line"/>
+      <point x="699" y="761" type="line"/>
+      <point x="708" y="670" type="line"/>
+      <point x="785" y="672" type="line"/>
+      <point x="883" y="672"/>
+      <point x="959" y="560"/>
+      <point x="959" y="435" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

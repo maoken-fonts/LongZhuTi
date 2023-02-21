@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="491" y="318" type="line"/>
+      <point x="189" y="318" type="line"/>
+      <point x="189" y="422" type="line"/>
+      <point x="386" y="422" type="line"/>
+      <point x="386" y="784" type="line"/>
+      <point x="491" y="784" type="line"/>
+    </contour>
+  </outline>
+</glyph>

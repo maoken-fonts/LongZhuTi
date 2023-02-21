@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon_vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="648" y="506" type="qcurve" smooth="yes"/>
+      <point x="614" y="506"/>
+      <point x="564" y="556"/>
+      <point x="564" y="590" type="qcurve" smooth="yes"/>
+      <point x="564" y="625"/>
+      <point x="614" y="674"/>
+      <point x="648" y="674" type="qcurve" smooth="yes"/>
+      <point x="683" y="674"/>
+      <point x="732" y="625"/>
+      <point x="732" y="590" type="qcurve" smooth="yes"/>
+      <point x="732" y="556"/>
+      <point x="683" y="506"/>
+    </contour>
+    <contour>
+      <point x="230" y="506" type="qcurve" smooth="yes"/>
+      <point x="196" y="506"/>
+      <point x="146" y="556"/>
+      <point x="146" y="590" type="qcurve" smooth="yes"/>
+      <point x="146" y="625"/>
+      <point x="196" y="674"/>
+      <point x="230" y="674" type="qcurve" smooth="yes"/>
+      <point x="265" y="674"/>
+      <point x="314" y="625"/>
+      <point x="314" y="590" type="qcurve" smooth="yes"/>
+      <point x="314" y="556"/>
+      <point x="265" y="506"/>
+    </contour>
+  </outline>
+</glyph>

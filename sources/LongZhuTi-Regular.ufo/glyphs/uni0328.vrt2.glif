@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0328.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="45" y="469" type="line"/>
+      <point x="-4" y="516"/>
+      <point x="-4" y="596" type="qcurve" smooth="yes"/>
+      <point x="-4" y="646"/>
+      <point x="40" y="710"/>
+      <point x="89" y="710" type="qcurve" smooth="yes"/>
+      <point x="140" y="710"/>
+      <point x="180" y="675" type="qcurve"/>
+      <point x="180" y="561" type="line"/>
+      <point x="145" y="594"/>
+      <point x="106" y="594" type="qcurve" smooth="yes"/>
+      <point x="71" y="594"/>
+      <point x="71" y="564" type="qcurve" smooth="yes"/>
+      <point x="71" y="534"/>
+      <point x="97" y="493" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

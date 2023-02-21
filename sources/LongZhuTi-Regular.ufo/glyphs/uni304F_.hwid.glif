@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni304F.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="397" y="-77" type="line"/>
+      <point x="250" y="129"/>
+      <point x="90" y="283" type="qcurve"/>
+      <point x="15" y="352"/>
+      <point x="15" y="401" type="qcurve" smooth="yes"/>
+      <point x="15" y="454"/>
+      <point x="119" y="572" type="qcurve"/>
+      <point x="251" y="719"/>
+      <point x="357" y="826" type="qcurve"/>
+      <point x="460" y="717" type="line"/>
+      <point x="303" y="597"/>
+      <point x="157" y="452" type="qcurve"/>
+      <point x="130" y="428"/>
+      <point x="130" y="408" type="qcurve" smooth="yes"/>
+      <point x="130" y="389"/>
+      <point x="167" y="359" type="qcurve" smooth="yes"/>
+      <point x="322" y="231"/>
+      <point x="484" y="61" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

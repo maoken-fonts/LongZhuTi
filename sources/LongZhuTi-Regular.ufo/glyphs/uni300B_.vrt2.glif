@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni300B.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="500" y="554" type="line"/>
+      <point x="51" y="800" type="line"/>
+      <point x="81" y="858" type="line"/>
+      <point x="500" y="659" type="line"/>
+      <point x="919" y="858" type="line"/>
+      <point x="949" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="398" type="line"/>
+      <point x="34" y="656" type="line"/>
+      <point x="65" y="714" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="935" y="714" type="line"/>
+      <point x="965" y="656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

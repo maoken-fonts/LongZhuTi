@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen_vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="923" y="357" type="line"/>
+      <point x="577" y="481" type="line"/>
+      <point x="577" y="364" type="line"/>
+      <point x="493" y="364" type="line"/>
+      <point x="493" y="518" type="line"/>
+      <point x="387" y="525" type="line"/>
+      <point x="387" y="364" type="line"/>
+      <point x="302" y="364" type="line"/>
+      <point x="302" y="529" type="line"/>
+      <point x="160" y="536" type="line"/>
+      <point x="146" y="654" type="line"/>
+      <point x="302" y="654" type="line"/>
+      <point x="302" y="814" type="line"/>
+      <point x="387" y="814" type="line"/>
+      <point x="387" y="654" type="line"/>
+      <point x="493" y="654" type="line"/>
+      <point x="493" y="814" type="line"/>
+      <point x="577" y="814" type="line"/>
+      <point x="577" y="693" type="line"/>
+      <point x="938" y="837" type="line"/>
+      <point x="960" y="691" type="line"/>
+      <point x="597" y="598" type="line"/>
+      <point x="953" y="442" type="line"/>
+    </contour>
+  </outline>
+</glyph>

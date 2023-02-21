@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="300" y="-13" type="line"/>
+      <point x="300" y="134" type="line"/>
+      <point x="33" y="134" type="line"/>
+      <point x="6" y="235" type="line"/>
+      <point x="140" y="502"/>
+      <point x="230" y="801" type="qcurve"/>
+      <point x="364" y="758" type="line"/>
+      <point x="240" y="447"/>
+      <point x="112" y="238" type="qcurve"/>
+      <point x="300" y="248" type="line"/>
+      <point x="300" y="598" type="line"/>
+      <point x="425" y="588" type="line"/>
+      <point x="414" y="253" type="line"/>
+      <point x="489" y="258" type="line"/>
+      <point x="489" y="134" type="line"/>
+      <point x="411" y="134" type="line"/>
+      <point x="407" y="6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

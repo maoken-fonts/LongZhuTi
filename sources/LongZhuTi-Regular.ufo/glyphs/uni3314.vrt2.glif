@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3314.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="723" y="372" type="line"/>
+      <point x="701" y="526" type="line"/>
+      <point x="531" y="507" type="line"/>
+      <point x="511" y="551" type="line"/>
+      <point x="693" y="581" type="line"/>
+      <point x="681" y="668" type="line"/>
+      <point x="563" y="656" type="line"/>
+      <point x="544" y="702" type="line"/>
+      <point x="673" y="722" type="line"/>
+      <point x="660" y="816" type="line"/>
+      <point x="734" y="820" type="line"/>
+      <point x="744" y="733" type="line"/>
+      <point x="856" y="751" type="line"/>
+      <point x="863" y="685" type="line"/>
+      <point x="750" y="674" type="line"/>
+      <point x="759" y="591" type="line"/>
+      <point x="923" y="618" type="line"/>
+      <point x="933" y="552" type="line"/>
+      <point x="765" y="533" type="line"/>
+      <point x="781" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="-49" type="line"/>
+      <point x="393" y="-1" type="line"/>
+      <point x="168" y="-1" type="line"/>
+      <point x="168" y="-42" type="line"/>
+      <point x="106" y="-49" type="line"/>
+      <point x="96" y="320" type="line"/>
+      <point x="168" y="320" type="line"/>
+      <point x="168" y="300" type="line"/>
+      <point x="465" y="320" type="line"/>
+      <point x="455" y="-42" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="44" type="line"/>
+      <point x="393" y="62" type="line"/>
+      <point x="393" y="253" type="line"/>
+      <point x="168" y="253" type="line"/>
+    </contour>
+  </outline>
+</glyph>

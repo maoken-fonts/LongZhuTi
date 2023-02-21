@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="243" y="0" type="qcurve" smooth="yes"/>
+      <point x="53" y="0" type="line"/>
+      <point x="37" y="669" type="line"/>
+      <point x="12" y="664" type="line"/>
+      <point x="1" y="753" type="line"/>
+      <point x="123" y="790"/>
+      <point x="233" y="790" type="qcurve" smooth="yes"/>
+      <point x="490" y="790"/>
+      <point x="490" y="384" type="qcurve" smooth="yes"/>
+      <point x="490" y="212"/>
+      <point x="360" y="0"/>
+    </contour>
+    <contour>
+      <point x="157" y="98" type="line"/>
+      <point x="201" y="98"/>
+      <point x="271" y="108"/>
+      <point x="299" y="129" type="qcurve" smooth="yes"/>
+      <point x="371" y="185"/>
+      <point x="371" y="385" type="qcurve" smooth="yes"/>
+      <point x="371" y="529"/>
+      <point x="303" y="684"/>
+      <point x="225" y="684" type="qcurve" smooth="yes"/>
+      <point x="183" y="684"/>
+      <point x="157" y="681" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

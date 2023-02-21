@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3010" format="2">
+  <advance width="1000"/>
+  <unicode hex="3010"/>
+  <outline>
+    <contour>
+      <point x="885" y="-75" type="qcurve"/>
+      <point x="597" y="-74" type="line"/>
+      <point x="597" y="825" type="line"/>
+      <point x="885" y="825" type="line"/>
+      <point x="708" y="671"/>
+      <point x="708" y="376" type="qcurve" smooth="yes"/>
+      <point x="708" y="75"/>
+    </contour>
+  </outline>
+</glyph>

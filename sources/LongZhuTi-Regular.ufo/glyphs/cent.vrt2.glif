@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="240" y="291" type="line"/>
+      <point x="200" y="320"/>
+      <point x="148" y="433"/>
+      <point x="148" y="505" type="qcurve" smooth="yes"/>
+      <point x="148" y="520"/>
+      <point x="149" y="534" type="qcurve"/>
+      <point x="49" y="563" type="line"/>
+      <point x="71" y="638" type="line"/>
+      <point x="164" y="610" type="line"/>
+      <point x="191" y="691"/>
+      <point x="329" y="795"/>
+      <point x="438" y="795" type="qcurve" smooth="yes"/>
+      <point x="530" y="795"/>
+      <point x="659" y="719"/>
+      <point x="727" y="588"/>
+      <point x="727" y="505" type="qcurve" smooth="yes"/>
+      <point x="727" y="475"/>
+      <point x="722" y="446" type="qcurve"/>
+      <point x="823" y="416" type="line"/>
+      <point x="803" y="341" type="line"/>
+      <point x="700" y="372" type="line"/>
+      <point x="678" y="325"/>
+      <point x="643" y="296" type="qcurve"/>
+      <point x="567" y="330" type="line"/>
+      <point x="594" y="356"/>
+      <point x="611" y="397" type="qcurve"/>
+      <point x="246" y="505" type="line"/>
+      <point x="245" y="483" type="line"/>
+      <point x="245" y="434"/>
+      <point x="282" y="350"/>
+      <point x="310" y="324" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="631" y="473" type="line"/>
+      <point x="632" y="486" type="line"/>
+      <point x="632" y="557"/>
+      <point x="528" y="666"/>
+      <point x="438" y="666" type="qcurve" smooth="yes"/>
+      <point x="322" y="666"/>
+      <point x="270" y="579" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

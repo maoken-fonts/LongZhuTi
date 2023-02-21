@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="315" y="320" type="qcurve" smooth="yes"/>
+      <point x="236" y="320"/>
+      <point x="148" y="441"/>
+      <point x="148" y="559" type="qcurve" smooth="yes"/>
+      <point x="148" y="610"/>
+      <point x="188" y="708"/>
+      <point x="245" y="785"/>
+      <point x="270" y="805" type="qcurve"/>
+      <point x="335" y="756" type="line"/>
+      <point x="303" y="725"/>
+      <point x="249" y="601"/>
+      <point x="249" y="554" type="qcurve" smooth="yes"/>
+      <point x="249" y="456"/>
+      <point x="310" y="456" type="qcurve" smooth="yes"/>
+      <point x="342" y="456"/>
+      <point x="382" y="523"/>
+      <point x="397" y="594" type="qcurve" smooth="yes"/>
+      <point x="437" y="787"/>
+      <point x="567" y="787" type="qcurve" smooth="yes"/>
+      <point x="636" y="787"/>
+      <point x="727" y="670"/>
+      <point x="727" y="560" type="qcurve" smooth="yes"/>
+      <point x="727" y="484"/>
+      <point x="670" y="360"/>
+      <point x="637" y="336" type="qcurve"/>
+      <point x="568" y="378" type="line"/>
+      <point x="596" y="409"/>
+      <point x="632" y="511"/>
+      <point x="632" y="562" type="qcurve" smooth="yes"/>
+      <point x="632" y="654"/>
+      <point x="575" y="654" type="qcurve" smooth="yes"/>
+      <point x="553" y="654"/>
+      <point x="520" y="603"/>
+      <point x="506" y="538" type="qcurve"/>
+      <point x="467" y="320"/>
+    </contour>
+    <contour>
+      <point x="919" y="363" type="line"/>
+      <point x="770" y="505" type="line"/>
+      <point x="770" y="619" type="line"/>
+      <point x="919" y="758" type="line"/>
+      <point x="973" y="711" type="line"/>
+      <point x="869" y="561" type="line"/>
+      <point x="973" y="411" type="line"/>
+    </contour>
+  </outline>
+</glyph>

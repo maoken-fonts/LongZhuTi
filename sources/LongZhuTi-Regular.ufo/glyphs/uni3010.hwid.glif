@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3010.hwid" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="458" y="-75" type="qcurve"/>
+      <point x="170" y="-74" type="line"/>
+      <point x="170" y="825" type="line"/>
+      <point x="458" y="825" type="line"/>
+      <point x="281" y="671"/>
+      <point x="281" y="376" type="qcurve" smooth="yes"/>
+      <point x="281" y="75"/>
+    </contour>
+  </outline>
+</glyph>

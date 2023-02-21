@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.vrt2" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="827" y="195" type="line"/>
+      <point x="724" y="334"/>
+      <point x="359" y="492"/>
+      <point x="147" y="492" type="qcurve"/>
+      <point x="169" y="645" type="line"/>
+      <point x="358" y="632"/>
+      <point x="711" y="464"/>
+      <point x="814" y="358" type="qcurve"/>
+      <point x="814" y="756" type="line"/>
+      <point x="910" y="781" type="line"/>
+      <point x="940" y="249" type="line"/>
+    </contour>
+  </outline>
+</glyph>
